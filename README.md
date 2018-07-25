@@ -8,3 +8,8 @@ Repository > Pull 을 누르면 서버에서 최신 데이터를 가지고 오�
 Repository > Push 를 누르면 현재 본인이 commit 한 부분을 서버로 전송하게 됩니다.
 
 본인이 수정한 부분에 대해서 commit을 하지 않고 push를 누르면 수정한 내용이 전송되지 않습니다.
+
+
+
+
+pppppppp
