@@ -1,5 +1,5 @@
 /*
-  * Forever21 JP v1.1.1 8/27/2018 - Version 1
+  * Forever21 JP v1.1.1 9/3/2018 - Version 1
   * Copyright Forever21
   * Updated by Namhee Kim
 */
@@ -796,7 +796,7 @@ span[class^="c_card_"].small {
 /* ============================== */
 /* Japan Code                     */
 /*================================*/
-main, #main, footer, .r_container{ 
+main, #main, footer, .r_container, .cookie, .flex-modal-item { 
   font-family: “メイリオ”, Meiryo, “ヒラギノ角ゴ Pro W3”, “Hiragino Kaku Gothic Pro”, Osaka, “ＭＳ Ｐゴシック”, “MS PGothic”, Arial, sans-serif;
 }
 /* header 
