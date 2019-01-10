@@ -4478,9 +4478,9 @@ width: 650px;
       display: block !important
   }
 
-      .show_device.mobile {
-          display: none !important
-      }
+  .show_device.mobile {
+      display: none !important
+  }
 
   .show_mobile_device {
       display: none
@@ -4834,6 +4834,7 @@ width: 650px;
 
       .table > div {
           display: table-cell
+        
       }
 
           .table > div.show_desktop {

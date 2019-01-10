@@ -1,0 +1,57 @@
+
+@font-face{
+    font-family:"Trade Gothic W01 BoldCn_20";
+    src:url("/shop/_common/images/fonts/tradegothic/257c802f-349c-4b4d-aefa-546d5de15ec6.eot");
+    src:url("/shop/_common/images/fonts/tradegothic/257c802f-349c-4b4d-aefa-546d5de15ec6.eot?#iefix") format("embedded-opentype"),
+    url("/shop/_common/images/fonts/tradegothic/257c802f-349c-4b4d-aefa-546d5de15ec6.eot?#iefix") format("eot"),
+    url("/shop/_common/images/fonts/tradegothic/1ba28851-f34b-4cb8-bf58-6a4b160ba249.woff2") format("woff2"),
+    url("/shop/_common/images/fonts/tradegothic/5fdc935e-9e30-442a-bbe9-8d887b858471.woff") format("woff"),
+    url("/shop/_common/images/fonts/tradegothic/616c4c87-a077-43f4-a9f4-f01267c13818.ttf") format("truetype"),
+    url("/shop/_common/images/fonts/tradegothic/c901ad5f-a842-4549-a1f4-583a97f7e169.svg#c901ad5f-a842-4549-a1f4-583a97f7e169") format("svg");
+  }
+  
+  @font-face{
+    font-family:"Futura W05_n2";
+    src:url("/shop/_common/images/fonts/futura/c309626c-3df7-4b5a-88fd-2a77fbacb89d.eot?#iefix") format("eot")
+  }
+  @font-face{
+    font-family:"Futura W05";
+    src:url("/shop/_common/images/fonts/futura/c309626c-3df7-4b5a-88fd-2a77fbacb89d.eot?#iefix");
+    src:url("/shop/_common/images/fonts/futura/c309626c-3df7-4b5a-88fd-2a77fbacb89d.eot?#iefix") format("eot"),
+    url("/shop/_common/images/fonts/futura/bd49d6fe-4284-4789-8a0f-77d20a47ffc1.woff2") format("woff2"),
+    url("/shop/_common/images/fonts/futura/2957f570-9f18-4264-bfe5-49c5e4912066.woff") format("woff"),
+    url("/shop/_common/images/fonts/futura/656c426a-25df-43fc-9a8a-90e98c58400c.ttf") format("truetype"),
+    url("/shop/_common/images/fonts/futura/43e9080e-6f1a-4e7c-8fa8-8f837c5b3a27.svg#43e9080e-6f1a-4e7c-8fa8-8f837c5b3a27") format("svg");
+    font-weight: 200;
+    font-style: normal;
+  }
+  @font-face{
+    font-family:"Futura W05_n5";
+    src:url("/shop/_common/images/fonts/futura/28223bee-779a-414b-a7a3-a6afeeac3146.eot?#iefix") format("eot")
+  }
+  @font-face{
+    font-family:"Futura W05";
+    src:url("/shop/_common/images/fonts/futura/28223bee-779a-414b-a7a3-a6afeeac3146.eot?#iefix");
+    src:url("/shop/_common/images/fonts/futura/28223bee-779a-414b-a7a3-a6afeeac3146.eot?#iefix") format("eot"),
+    url("../shop/_common/images/fonts/futura/55ed9b50-6dd3-4d1d-83f9-b86d944b92f8.woff2") format("woff2"),
+    url("/shop/_common/images/fonts/futura/9b5a5fd6-0255-45f5-9235-436ca9ca503a.woff") format("woff"),
+    url("/shop/_common/images/fonts/futura/e733fa7f-f1a5-4b16-9b19-7cf64cc121b2.ttf") format("truetype"),
+    url("/shop/_common/images/fonts/futura/d88cecc7-49c4-4576-b40a-977000258f17.svg#d88cecc7-49c4-4576-b40a-977000258f17") format("svg");
+    font-weight: 500;
+    font-style: normal;
+  }
+  @font-face{
+    font-family:"Futura W05_n4";
+    src:url("/shop/_common/images/fonts/futura/a411c21e-f439-48c1-bddb-887ec08b5224.eot?#iefix") format("eot")
+  }
+  @font-face{
+    font-family:"Futura W05";
+    src:url("/shop/_common/images/fonts/futura/a411c21e-f439-48c1-bddb-887ec08b5224.eot?#iefix");
+    src:url("/shop/_common/images/fonts/futura/a411c21e-f439-48c1-bddb-887ec08b5224.eot?#iefix") format("eot"),
+    url("./../shop/_common/images/fonts/futura/7a337894-f253-4a5d-a63e-0d8275cedec5.woff2") format("woff2"),
+    url("/shop/_common/images/fonts/futura/55e6a203-1f50-4971-89d0-17ca0150f29d.woff") format("woff"),
+    url("/shop/_common/images/fonts/futura/feaf9b77-0958-45fa-96c3-1afc445987ef.ttf") format("truetype"),
+    url("/shop/_common/images/fonts/futura/e15d89fd-44ef-431b-a26e-c80880e967c3.svg#e15d89fd-44ef-431b-a26e-c80880e967c3") format("svg");
+    font-weight: 400;
+    font-style: normal;
+  }

@@ -1,5 +1,5 @@
 /*
-  * Forever21 JP v1.1.1 9/3/2018 - Version 1
+  * Forever21 JP v1.1.1 12/19/2018 - Version 1
   * Copyright Forever21
   * Updated by Namhee Kim
 */
@@ -799,9 +799,14 @@ span[class^="c_card_"].small {
 main, #main, footer, .r_container, .cookie, .flex-modal-item { 
   font-family: “メイリオ”, Meiryo, “ヒラギノ角ゴ Pro W3”, “Hiragino Kaku Gothic Pro”, Osaka, “ＭＳ Ｐゴシック”, “MS PGothic”, Arial, sans-serif;
 }
-/* header 
-#ddlSignin .max_string {
-  max-width:75px !important;
+/* header 20181226 
+.table > div.depth_jp:first-child {
+  padding-left:0px
+}
+.table > div.depth_jp{
+  display:inline-block;	
+  padding:0 40px;
+  font-weight:bold
 }
 */
 /* select */
@@ -888,7 +893,10 @@ main, #main, footer, .r_container, .cookie, .flex-modal-item {
 .hp_midtitle_jp {
   font-size: 135%;
 }
-
+.soldout_jp {
+  font-size:1.4em;
+  line-height:130%
+}
 /* map */
 .map_img a {
   position: absolute;
